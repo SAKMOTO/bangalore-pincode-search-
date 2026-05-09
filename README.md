@@ -411,9 +411,21 @@ copies or substantial portions of the Software.
 
 <div align="center">
 
-**⭐ If you find this project helpful, please give it a star!**
+---
+
+### 🌟 **Show Your Support!**
+
+If this project impressed you, please consider giving it a ⭐ star!
+
+[![GitHub stars](https://img.shields.io/github/stars/SAKMOTO/bangalore-pincode-search-?style=social)](https://github.com/SAKMOTO/bangalore-pincode-search-/stargazers)
+
+---
+
+**🚀 Built with passion for modern web development**
 
 Made with ❤️ and ☕ for Bangalore 🏙️
+
+**📧 Contact:** [@SAKMOTO](https://github.com/SAKMOTO)
 
 [🔝 Back to Top](#-bangalore-pincode-search)
 

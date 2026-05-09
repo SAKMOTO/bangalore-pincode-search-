@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/bangalore-pincode-search-/static/css/main.a3a0e785.css",
+    "main.js": "/bangalore-pincode-search-/static/js/main.2f072852.js",
+    "index.html": "/bangalore-pincode-search-/index.html",
+    "main.a3a0e785.css.map": "/bangalore-pincode-search-/static/css/main.a3a0e785.css.map",
+    "main.2f072852.js.map": "/bangalore-pincode-search-/static/js/main.2f072852.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a3a0e785.css",
+    "static/js/main.2f072852.js"
+  ]
+}

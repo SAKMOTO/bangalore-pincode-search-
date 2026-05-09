@@ -1,0 +1,1204 @@
+{
+  "pincodes": [
+    {
+      "pincode": "560001",
+      "areas": ["Bangalore City", "Cantonment", "Shivajinagar", "Richmond Town", "Langford Town"]
+    },
+    {
+      "pincode": "560002",
+      "areas": ["Basavanagudi", "Gandhi Bazaar", "Bugle Rock", "Hanumanthnagar"]
+    },
+    {
+      "pincode": "560003",
+      "areas": ["Frazer Town", "Cooke Town", "Richmond Road", "Austin Town"]
+    },
+    {
+      "pincode": "560004",
+      "areas": ["Majestic", "Kempegowda Bus Station", "City Railway Station", "Kalasipalya"]
+    },
+    {
+      "pincode": "560005",
+      "areas": ["Malleswaram", "Sampige Road", "Sankey Tank", "Yeshwanthpur"]
+    },
+    {
+      "pincode": "560006",
+      "areas": ["Rajajinagar", "Mahalakshmi Layout", "Nandini Layout", "Prakash Nagar"]
+    },
+    {
+      "pincode": "560007",
+      "areas": ["Vijayanagar", "Chandra Layout", " Nagarbhavi", "Kamakshipalya"]
+    },
+    {
+      "pincode": "560008",
+      "areas": ["Jayanagar", "Banashankari", "J P Nagar", "South End Circle"]
+    },
+    {
+      "pincode": "560009",
+      "areas": ["Koramangala", "HSR Layout", "BTM Layout", "Madiwala"]
+    },
+    {
+      "pincode": "560010",
+      "areas": ["Indiranagar", "Domlur", "Old Airport Road", "HAL 2nd Stage"]
+    },
+    {
+      "pincode": "560011",
+      "areas": ["Whitefield", "ITPL", "Marathahalli", "Brookefield"]
+    },
+    {
+      "pincode": "560012",
+      "areas": ["Electronic City", "Hosur Road", "Bommanahalli", "Singasandra"]
+    },
+    {
+      "pincode": "560013",
+      "areas": ["Hebbal", "Yelahanka", "Jakkur", "Devanahalli"]
+    },
+    {
+      "pincode": "560014",
+      "areas": ["Banashankari 1st Stage", "Banashankari 2nd Stage", "Kathriguppe", "Girinagar"]
+    },
+    {
+      "pincode": "560015",
+      "areas": ["Jayanagar 1st Block", "Jayanagar 2nd Block", "Jayanagar 3rd Block", "Jayanagar 4th Block"]
+    },
+    {
+      "pincode": "560016",
+      "areas": ["BTM Layout 1st Stage", "BTM Layout 2nd Stage", "Mico Layout", "Stage 2"]
+    },
+    {
+      "pincode": "560017",
+      "areas": ["HSR Layout", "Agara", "Bommanahalli", "Sector 6"]
+    },
+    {
+      "pincode": "560018",
+      "areas": ["Koramangala 1st Block", "Koramangala 2nd Block", "Koramangala 3rd Block", "Koramangala 4th Block"]
+    },
+    {
+      "pincode": "560019",
+      "areas": ["Koramangala 5th Block", "Koramangala 6th Block", "Koramangala 7th Block", "Koramangala 8th Block"]
+    },
+    {
+      "pincode": "560020",
+      "areas": ["J P Nagar 1st Phase", "J P Nagar 2nd Phase", "J P Nagar 3rd Phase", "J P Nagar 4th Phase"]
+    },
+    {
+      "pincode": "560021",
+      "areas": ["Bannerghatta Road", "Arekere", "Bilekahalli", "Gottigere"]
+    },
+    {
+      "pincode": "560022",
+      "areas": ["Basaveshwaranagar", "Kamakshipalya", "Nagarabhavi", "Mahalakshmi Layout"]
+    },
+    {
+      "pincode": "560023",
+      "areas": ["Vijayanagar", "Chandra Layout", "Kamakshipalya", "Nagarabhavi"]
+    },
+    {
+      "pincode": "560024",
+      "areas": ["Yeshwanthpur", "Mathikere", "Goraguntepalya", "Peenya"]
+    },
+    {
+      "pincode": "560025",
+      "areas": ["Peenya", "Dasarahalli", "Jalahalli", "Vidyaranyapura"]
+    },
+    {
+      "pincode": "560026",
+      "areas": ["Hesaraghatta", "Jalahalli", "Vidyaranyapura", "Doddaballapur Road"]
+    },
+    {
+      "pincode": "560027",
+      "areas": ["Yelahanka", "Vidyaranyapura", "Jakkur", "Amruthahalli"]
+    },
+    {
+      "pincode": "560028",
+      "areas": ["Kalyan Nagar", "HBR Layout", "Kammanahalli", "Banaswadi"]
+    },
+    {
+      "pincode": "560029",
+      "areas": ["Hennur", "Banaswadi", "Lingrajapuram", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560030",
+      "areas": ["Kammanahalli", "Banaswadi", "Horamavu", "Kalkere"]
+    },
+    {
+      "pincode": "560031",
+      "areas": ["Horamavu", "Kalkere", "Ramamurthy Nagar", "Vignan Nagar"]
+    },
+    {
+      "pincode": "560032",
+      "areas": ["Ramamurthy Nagar", "Vignan Nagar", "Banaswadi", "Kalkere"]
+    },
+    {
+      "pincode": "560033",
+      "areas": ["HBR Layout", "Lingrajapuram", "Kammanahalli", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560034",
+      "areas": ["Kalyan Nagar", "HBR Layout", "Kammanahalli", "Banaswadi"]
+    },
+    {
+      "pincode": "560035",
+      "areas": ["Marathahalli", "Brookefield", "Kundalahalli", "Kadubeesanahalli"]
+    },
+    {
+      "pincode": "560036",
+      "areas": ["Kundalahalli", "Kadubeesanahalli", "Marathahalli", "Brookefield"]
+    },
+    {
+      "pincode": "560037",
+      "areas": ["Bellandur", "Kaikondrahalli", "Haralur", "Sarjapur Road"]
+    },
+    {
+      "pincode": "560038",
+      "areas": ["Sarjapur Road", "Kaikondrahalli", "Haralur", "Bellandur"]
+    },
+    {
+      "pincode": "560039",
+      "areas": ["Varthur", "Gunjur", "Whitefield", "Marathahalli"]
+    },
+    {
+      "pincode": "560040",
+      "areas": ["Whitefield", "ITPL", "Varthur", "Gunjur"]
+    },
+    {
+      "pincode": "560041",
+      "areas": ["Mahadevapura", "Marathahalli", "Kundalahalli", "Kadubeesanahalli"]
+    },
+    {
+      "pincode": "560042",
+      "areas": ["C V Raman Nagar", "Banaswadi", "Kalyan Nagar", "HBR Layout"]
+    },
+    {
+      "pincode": "560043",
+      "areas": ["Old Airport Road", "Domlur", "Indiranagar", "HAL 2nd Stage"]
+    },
+    {
+      "pincode": "560044",
+      "areas": ["HAL 2nd Stage", "HAL 3rd Stage", "Domlur", "Indiranagar"]
+    },
+    {
+      "pincode": "560045",
+      "areas": ["Jeevan Bhima Nagar", "Old Airport Road", "HAL 2nd Stage", "Domlur"]
+    },
+    {
+      "pincode": "560046",
+      "areas": ["Koramangala", "HSR Layout", "BTM Layout", "Madiwala"]
+    },
+    {
+      "pincode": "560047",
+      "areas": ["Madiwala", "BTM Layout", "HSR Layout", "Koramangala"]
+    },
+    {
+      "pincode": "560048",
+      "areas": ["Agara", "Bommanahalli", "HSR Layout", "Singasandra"]
+    },
+    {
+      "pincode": "560049",
+      "areas": ["Bommanahalli", "Singasandra", "Electronic City", "Hosur Road"]
+    },
+    {
+      "pincode": "560050",
+      "areas": ["Electronic City", "Hosur Road", "Bommanahalli", "Singasandra"]
+    },
+    {
+      "pincode": "560051",
+      "areas": ["Electronic City Phase 1", "Electronic City Phase 2", "Hosur Road", "Neeladri Nagar"]
+    },
+    {
+      "pincode": "560052",
+      "areas": ["Electronic City Phase 2", "Hosur Road", "Neeladri Nagar", "Doddathoguru"]
+    },
+    {
+      "pincode": "560053",
+      "areas": ["Attibele", "Chandapura", "Hosur Road", "Electronic City"]
+    },
+    {
+      "pincode": "560054",
+      "areas": ["Chandapura", "Attibele", "Hosur Road", "Electronic City"]
+    },
+    {
+      "pincode": "560055",
+      "areas": ["Anekal", "Jigani", "Hosur Road", "Attibele"]
+    },
+    {
+      "pincode": "560056",
+      "areas": ["Jigani", "Anekal", "Hosur Road", "Chandapura"]
+    },
+    {
+      "pincode": "560057",
+      "areas": ["Bannerghatta", "Anekal", "Jigani", "Hosur Road"]
+    },
+    {
+      "pincode": "560058",
+      "areas": ["Bannerghatta Road", "Arekere", "Bilekahalli", "Gottigere"]
+    },
+    {
+      "pincode": "560059",
+      "areas": ["Gottigere", "Bannerghatta Road", "Arekere", "Bilekahalli"]
+    },
+    {
+      "pincode": "560060",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560061",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560062",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560063",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560064",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560065",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560066",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560067",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560068",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560069",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560070",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560071",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560072",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560073",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560074",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560075",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560076",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560077",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560078",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560079",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560080",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560081",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560082",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560083",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560084",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560085",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560086",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560087",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560088",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560089",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560090",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560091",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560092",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560093",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560094",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560095",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560096",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560097",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560098",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560099",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560100",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560101",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560102",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560103",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560104",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560105",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560106",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560107",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560108",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560109",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560110",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560111",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560112",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560113",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560114",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560115",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560116",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560117",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560118",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560119",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560120",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560121",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560122",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560123",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560124",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560125",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560126",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560127",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560128",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560129",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560130",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560131",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560132",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560133",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560134",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560135",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560136",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560137",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560138",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560139",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560140",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560141",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560142",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560143",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560144",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560145",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560146",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560147",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560148",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560149",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560150",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560151",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560152",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560153",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560154",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560155",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560156",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560157",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560158",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560159",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560160",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560161",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560162",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560163",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560164",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560165",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560166",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560167",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560168",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560169",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560170",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560171",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560172",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560173",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560174",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560175",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560176",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560177",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560178",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560179",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560180",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560181",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560182",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560183",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560184",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560185",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560186",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560187",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560188",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560189",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560190",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560191",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560192",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560193",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560194",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560195",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560196",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560197",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560198",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560199",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560200",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560201",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560202",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560203",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560204",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560205",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560206",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560207",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560208",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560209",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560210",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560211",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560212",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560213",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560214",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560215",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560216",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560217",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560218",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560219",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560220",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560221",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560222",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560223",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560224",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560225",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560226",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560227",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560228",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560229",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560230",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560231",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560232",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560233",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560234",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560235",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560236",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560237",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560238",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560239",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560240",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560241",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560242",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560243",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560244",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560245",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560246",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560247",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560248",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560249",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560250",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560251",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560252",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560253",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560254",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560255",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560256",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560257",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560258",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560259",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560260",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560261",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560262",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560263",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560264",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560265",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560266",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560267",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560268",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560269",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560270",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560271",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560272",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560273",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560274",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560275",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560276",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560277",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560278",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560279",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560280",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560281",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560282",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560283",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560284",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560285",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560286",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560287",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560288",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560289",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560290",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560291",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560292",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560293",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560294",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560295",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560296",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560297",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560298",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560299",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    },
+    {
+      "pincode": "560300",
+      "areas": ["Kaggadasapura", "CV Raman Nagar", "Banaswadi", "Kalyan Nagar"]
+    }
+  ]
+}

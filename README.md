@@ -6,10 +6,11 @@
 ![React](https://img.shields.io/badge/React-18.2.0-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-18.0.0-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-3.3.3-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Live Demo](https://img.shields.io/badge/Live%20Demo-Online-brightgreen?style=for-the-badge&logo=github&logoColor=white)
 
 **A stunning, modern web application for searching Bangalore pincodes and areas with beautiful animations and exceptional user experience**
 
-[🚀 Live Demo](#) • [📱 View Screenshots](#) • [🎯 Features](#-features) • [🛠️ Tech Stack](#️-tech-stack)
+[🚀 **Live Demo**](https://sakmoto.github.io/bangalore-pincode-search/) • [📱 View Screenshots](#) • [🎯 Features](#-features) • [🛠️ Tech Stack](#️-tech-stack)
 
 </div>
 
@@ -30,6 +31,29 @@
 - [📞 Contact](#-contact)
 
 ---
+
+## 🚀 Live Demo
+
+<div align="center">
+
+### **🌟 Try the Live Application Now!**
+
+[**🎯 Click Here to Experience Bangalore Pincode Search**](https://sakmoto.github.io/bangalore-pincode-search/)
+
+---
+
+**✨ What you'll experience:**
+- 🎨 Beautiful dark theme with glassmorphism effects
+- ⚡ Lightning-fast search with instant results
+- 📱 Perfect responsive design on all devices
+- 🎭 Smooth animations and micro-interactions
+- 🔍 Dual search modes (pincode ↔ area)
+
+**🔗 Direct Link:** https://sakmoto.github.io/bangalore-pincode-search/
+
+---
+
+</div>
 
 ## 🎯 About
 
@@ -146,6 +170,9 @@ const backend = {
    📍 Frontend runs on `http://localhost:3000`
 
 6. **🌐 Open your browser** and navigate to `http://localhost:3000`
+
+### 🚀 **Or Try the Live Demo Instantly**
+**No setup required!** Visit: https://sakmoto.github.io/bangalore-pincode-search/
 
 ---
 
